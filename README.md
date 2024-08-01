@@ -38,5 +38,5 @@ The MySQL database schema includes the following tables:
 * Top Cities and Products
 
 ### Link to download files
-[link](https://drive.google.com/drive/folders/1yXk7_cBfb5m8sFenwNZAXWu1e0v6OfSU?usp=sharing)
+[Download Files](https://drive.google.com/drive/folders/1yXk7_cBfb5m8sFenwNZAXWu1e0v6OfSU?usp=sharing)
   
